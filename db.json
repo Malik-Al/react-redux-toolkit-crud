@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "MALIK",
+      "body": "IMENOV",
+      "id": 1639720349274
+    },
+    {
+      "title": "ertyet",
+      "body": "ertyerty",
+      "id": 1639721494737
+    },
+    {
+      "id": 1639722715578,
+      "body": "ppppppppppp",
+      "title": "PPPPPPPPP"
+    },
+    {
+      "id": 1639728533088,
+      "body": "IMENOV",
+      "title": "sabyr"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
